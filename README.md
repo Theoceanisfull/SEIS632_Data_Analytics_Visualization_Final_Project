@@ -13,6 +13,12 @@ a)	Define and characterize data through exploratory data analysis using PowerBI 
 b)	Use DAX or M to help visualize and estimate hours study vs. academic performance.
 c)	Use PowerBI visualization tools to convey which features negatively affect student performance. 
 
+** Created additional synthetic student data utilizing ChatGPT. file name = synthetic_student_extension.csv. 
+Cols:
+student_id
+library_visits_per_month
+caffeine_consumption_mg_per_day
+
 Dataset 2:
 Title: Galton’s Height Data Multiple Linear Regression
 Source: https://www.kaggle.com/datasets/fundal/galtons-height-data-multiple-linear-regression
